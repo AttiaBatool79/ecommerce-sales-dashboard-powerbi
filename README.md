@@ -15,7 +15,7 @@ This project was completed as part of my **Leverify Data Analytics Course in Jun
 
 ---
 
-## 📌 Dataset  
+##  Dataset  
 The project uses two datasets:  
 
 - `Orders.csv`: Contains sales transactions, customer details, payment methods, and order amounts.  
@@ -23,14 +23,14 @@ The project uses two datasets:
 
 ---
 
-## 🔧 **Technologies Used**  
+##  **Technologies Used**  
 - **Power BI** – For data visualization  
 - **DAX (Data Analysis Expressions)** – For advanced calculations  
 - **Data Cleaning & Transformation** – Using Power Query  
 
 ---
 
-## 📊 **Dashboard Breakdown**  
+##  **Dashboard Breakdown**  
 
 ### 1️⃣ **KPIs (Key Performance Indicators)**  
 - **Total Sales:** `438K`  
@@ -53,8 +53,8 @@ The project uses two datasets:
 
 ### 5️⃣ **Profitability Analysis**  
 - **Most Profitable Sub-Categories:**  
-  - 📌 **Printers** (Highest profit)  
-  - 📌 **Bookcases**, **Sarees**, **Accessories**, **Tables**  
+  -  **Printers** (Highest profit)  
+  -  **Bookcases**, **Sarees**, **Accessories**, **Tables**  
 
 ### 6️⃣ **Time-Series Analysis**  
 - **Highest Profit Months:** February, March, October, and November  
@@ -62,14 +62,14 @@ The project uses two datasets:
 
 ---
 
-## 🚀 **How to Use the Dashboard**  
+##  **How to Use the Dashboard**  
 1. **Download the repository** and open `ecommerce_sales_dashboard.pbix` in Power BI.  
 2. **Explore Interactive Filters**: Use quarterly filters to analyze different time periods.  
 3. **Customize as Needed**: Modify visuals or add additional insights based on business needs.  
 
 ---
 
-## 🔥 **Advanced Concepts Used**  
+##  **Advanced Concepts Used**  
 ### 🔹 **DAX Calculations**  
 - **AOV Calculation:** `SUM(Sales Amount) / COUNT(Distinct Order ID)`  
 - **Profit Margin:** `(Total Profit / Total Sales) * 100`  
@@ -81,14 +81,7 @@ The project uses two datasets:
 
 ---
 
-## 📌 **Next Steps & Improvements**  
-✅ Add **Forecasting using Power BI AI Features**  
-✅ Implement **More Dynamic Filters (State, Category, Customer Segmentation)**  
-✅ Use **Advanced DAX Measures for Deep Insights**  
-
----
-
-## 📩 **Connect with Me**  
+##  **Connect with Me**  
 If you find this project useful, feel free to **star ⭐ the repo** and connect with me on LinkedIn!  
 
 
